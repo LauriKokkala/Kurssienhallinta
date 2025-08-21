@@ -1,0 +1,11 @@
+.topbar {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: auto;
+}
+
+.tiedot {
+    display: flex;
+    flex-direction:row-reverse;
+}
